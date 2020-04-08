@@ -1,2 +1,3 @@
-# Java_test
-剑指offer的Java实现
+# Java_test  
+本库内容为剑指offer的Java实现，共67篇，包括题解与代码  
+参考了网上各路同学的解答，供各位参考
